@@ -8,6 +8,8 @@ member01
 member02
 member03
 
+# fetchの確認
+
 # ディレクトリ構成
 ```
 seminar/
